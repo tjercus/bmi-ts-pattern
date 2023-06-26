@@ -1,6 +1,6 @@
 # bmi-ts-pattern
 
-Example of a BMI category written in TypeScript using the BMI TS Pattern.
+Example of a BMI category calculator written in TypeScript using the ts-pattern
 
 ## runtime
 
